@@ -41,7 +41,7 @@ Our **Wingo Prediction Tool** helps players make smarter choices with fair predi
 📘 [User Guide](https://92pak.io/)
 
 <p align="center">
-  <img src="https://pkgames.online/wp-content/uploads/2025/05/photo_2025-05-31_18-57-03-1024x682.jpg" alt="Prediction Tool" style="max-width: 100%; height: auto;">
+  <img src="https://pkgames.online/wp-content/uploads/2025/06/photo_2025-06-13_23-42-34.jpg" alt="92Pak Prediction Tool" style="max-width: 100%; height: auto;">
 </p>
 
 ---
