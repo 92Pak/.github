@@ -37,8 +37,8 @@ Flawless on Android & iOS devices.
 
 Our **Wingo Prediction Tool** helps players make smarter choices with fair predictions.
 
-🔗 [Try the Prediction Tool](https://pkgames.online/fantasy-gems-prediction/)  
-📘 [User Guide](https://pkgames.online/fantasy-gems/)
+🔗 [Try the Prediction Tool](https://pkgames.online/92pak-prediction/)  
+📘 [User Guide](https://92pak.io/)
 
 <p align="center">
   <img src="https://pkgames.online/wp-content/uploads/2025/05/photo_2025-05-31_18-57-03-1024x682.jpg" alt="Prediction Tool" style="max-width: 100%; height: auto;">
